@@ -90,4 +90,8 @@
   </tbody>
 </table>
 
+## 📈 Most Used Languages
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=hathang16&layout=compact&card_width=400)
+
 </div>
