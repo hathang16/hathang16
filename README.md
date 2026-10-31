@@ -26,7 +26,7 @@
   </tr>
   <tr>
     <td align="center"><b>포트폴리오</b></td>
-    <td align="center"><a href="https://childish-packet-656.notion.site/b4940ef34ac382eaa48181ced4d2fe1f" target="_blank">Notion Portfolio</a></td>
+    <td align="center"><a href="https://childish-packet-656.notion.site/b4940ef34ac382eaa48181ced4d2fe1f" target="_blank"><img src="https://img.shields.io/badge/Notion-Portfolio-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion Portfolio" /></a></td>
   </tr>
 </table>
 
