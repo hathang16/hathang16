@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<h2>🙌 <b>안녕하세요.</b> 🙌</h2>
+<h2> <b>안녕하세요.</b> </h2>
 <h3><b>GitHub</b> 방문을 환영합니다.</h3>
 
 <br>
@@ -21,17 +21,21 @@
     <td align="center">컴퓨터공학과</td>
   </tr>
   <tr>
-    <td align="center"><b>생년월일</b></td>
-    <td align="center">2002-03-31</td>
+    <td align="center"><b>이메일</b></td>
+    <td align="center">hathang16@naver.com</td>
+  </tr>
+  <tr>
+    <td align="center"><b>포트폴리오</b></td>
+    <td align="center"><a href="https://childish-packet-656.notion.site/b4940ef34ac382eaa48181ced4d2fe1f" target="_blank">Notion Portfolio</a></td>
   </tr>
 </table>
 
 <br>
 <br>
 
-<h3>🖥️ Tech Stacks</h3>
+<h3> Tech Stacks</h3>
 
-<h4>🎓 2025.09 ~ 2026.03 (수료 완료) 🎓</h4>
+<h4> 2025.09 ~ 2026.03 (수료 완료) </h4>
 <p>
   <img src="https://img.shields.io/badge/한화시스템%20BEYOND__SWCAMP-21기%20수료-383838?style=for-the-badge&logo=Hanwha&logoColor=white" />
 </p>
@@ -39,7 +43,7 @@
 <br>
 <br>
 
-<h3>🚀 주요 프로젝트</h3>
+<h3> 주요 프로젝트</h3>
 
 <table align="center">
   <thead>
